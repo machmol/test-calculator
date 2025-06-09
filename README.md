@@ -1,8 +1,6 @@
 # test-calculator
-Tutorial application for git
+Tutorial application for git.
 
-## Below here we add changes on our local machine
-
-test
-
-## here we add new stuff in a different branch
+Reason for this small project:
+- Understand the concept of modules
+- working with .git
